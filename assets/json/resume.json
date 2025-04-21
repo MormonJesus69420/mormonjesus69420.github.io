@@ -38,7 +38,11 @@
       "name": "Nasjonalbiblioteket | The National Library of Norway",
       "position": "Software Developer",
       "startDate": "2020-10-01",
-      "highlights": ["Software Development", "System Development", "DevOps"],
+      "highlights": [
+        "Software Development",
+        "System Development",
+        "DevOps"
+      ],
       "summary": "Oct 2020 - Apr 2024 Digital Preservation team\nApr 2024 - Now Warehouse and Logistics team\n\nDuring my work at the Digital Preservation team, I've helped with developing system for processing and preserving digital materials produced at National Library of Norway. The system was developed in Apache NiFi and I helped with developing processors for it as well as setting up servers to run it.\n\nCurrently I work on developing a Warehouse Logistics Service which will work as a middleware between our catalogs and storage systems.",
       "url": "https://www.linkedin.com/company/27160997",
       "location": "Mo i Rana, Norway"
@@ -47,7 +51,11 @@
       "name": "UiT- The Arctic University of Norway",
       "position": "Teaching Assistant",
       "startDate": "2020-09-01",
-      "highlights": ["Teaching", "Grading", "Evaluating"],
+      "highlights": [
+        "Teaching",
+        "Grading",
+        "Evaluating"
+      ],
       "summary": "Grading exams, evaluating courses, helping with teaching the Software Development course.",
       "url": "https://www.linkedin.com/company/15096352",
       "location": "Narvik, Norway"
@@ -67,7 +75,9 @@
       "position": "Research Assistant",
       "startDate": "2019-08-31",
       "endDate": "2020-02-28",
-      "highlights": ["Teaching"],
+      "highlights": [
+        "Teaching"
+      ],
       "summary": "Worked as a teaching assistant, teaching students about advanced programming topics as well as and intro to databases.",
       "url": "https://www.linkedin.com/company/15096352",
       "location": "Narvik, Norway"
@@ -82,7 +92,12 @@
       "startDate": "2017-08-14",
       "endDate": "2019-06-21",
       "score": "B average",
-      "courses": ["Computer Graphics", "Simulations", "Machine Learning", "Engine Development"]
+      "courses": [
+        "Computer Graphics",
+        "Simulations",
+        "Machine Learning",
+        "Engine Development"
+      ]
     },
     {
       "institution": "UiT- The Arctic University of Norway",
@@ -91,7 +106,16 @@
       "startDate": "2014-08-11",
       "endDate": "2017-06-23",
       "score": "B average",
-      "courses": ["Data Structures", "Algorithms", "Software Engineering", "Database Systems", "Web Development", "Android Development", "Operating Systems", "Computer Architecture"]
+      "courses": [
+        "Data Structures",
+        "Algorithms",
+        "Software Engineering",
+        "Database Systems",
+        "Web Development",
+        "Android Development",
+        "Operating Systems",
+        "Computer Architecture"
+      ]
     }
   ],
   "awards": [],
